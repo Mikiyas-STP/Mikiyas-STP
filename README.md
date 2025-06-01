@@ -8,18 +8,15 @@ I'm a software development trainee with a strong passion for building web applic
 - 🔧 Tech Stack:  
   `JavaScript` `Python` `Node.js` `React` `Git` `SQL` `HTML` `CSS`
 - 🧪 Practices: **Test-Driven Development**, **Agile**, **Unit Testing**
-- 📦 Beginner projects:  
-  - [`My-Coursework-Planner`](https://github.com/mikiyasgebremichael/my-coursework-planner)
-  - [CodeYourFuture onboarding tasks](https://github.com/mikiyasgebremichael/GitHomeworkTest)
-- 🧠 Learning every day on [Codewars](https://www.codewars.com/users/mikiyasgebremichael) (currently 5 kyu in JavaScript)
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/mikiyas-gebremichael/)
+- 🧠 Learning coding on [Codewars](https://www.codewars.com/users/mikiyas-stp) (currently 5 kyu in JavaScript)
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/mikiyas-stp/)
 
 ## 🏆 Certifications
-- ✅ CodeYourFuture: [Intro to Digital](https://verify.accredible.com/sample-digital-badge) *(Nov 2024)*
-- ✅ CodeYourFuture: [Intro to Programming](https://verify.accredible.com/sample-programming-badge) *(Apr 2025)*
+- ✅ CodeYourFuture: [Intro to Digital](https://www.credential.net/7328dde9-bb53-4d94-a325-03150f3e4d90#acc.IoW5JxNB)
+- ✅ CodeYourFuture: [Intro to Programming](https://www.credential.net/91f619b8-2c58-4f6a-ac4c-c9da9964045c#acc.uA7LQ1xK)
 
 ## 📈 GitHub Stats
-![Mikiyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikiyasgebremichael&show_icons=true&theme=default)
+![Mikiyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikiyas-stp&show_icons=true&theme=default)
 
 ---
 
