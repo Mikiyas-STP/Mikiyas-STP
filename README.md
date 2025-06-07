@@ -21,4 +21,5 @@ I'm a software development trainee with a strong passion for building web applic
 ---
 
 > 🌱 *"I'm not just learning to code — I'm learning to think like a developer."*
+MGM
 
