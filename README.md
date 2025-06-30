@@ -1,25 +1,38 @@
-# 👋 Hi, I'm Mikiyas
+# 👋 Hey there, I’m Mikiyas!
 
-I'm a software development trainee with a strong passion for building web applications and solving real-world problems with code. I'm currently training with [CodeYourFuture](https://codeyourfuture.io/) – a non-profit organization that supports aspiring developers from underserved backgrounds – and I'm loving every step of the journey.
-
-## 🚀 About Me
-- 🎓 Currently a trainee at **CodeYourFuture (London cohort)**  
-- 💡 Learning: **JavaScript**, **React**, **Node**, **Software Development Practices**
-- 🔧 Tech Stack:  
-  `JavaScript` `Python` `Node.js` `React` `Git` `SQL` `HTML` `CSS`
-- 🧪 Practices: **Test-Driven Development**, **Agile**, **Unit Testing**
-- 🧠 Learning coding on [Codewars](https://www.codewars.com/users/mikiyas-stp) (currently 5 kyu in JavaScript)
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/mikiyas-stp/)
-
-## 🏆 Certifications
-- ✅ CodeYourFuture: [Intro to Digital](https://www.credential.net/7328dde9-bb53-4d94-a325-03150f3e4d90#acc.IoW5JxNB)
-- ✅ CodeYourFuture: [Intro to Programming](https://www.credential.net/91f619b8-2c58-4f6a-ac4c-c9da9964045c#acc.uA7LQ1xK)
-
-## 📈 GitHub Stats
-![Mikiyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikiyas-stp&show_icons=true&theme=default)
+I’m a passionate trainee software developer on a mission to turn ideas into real-world web applications. Currently honing my skills with [CodeYourFuture (London cohort)](https://codeyourfuture.io/), I thrive on collaboration, challenges, and continuous learning.
 
 ---
 
-> 🌱 *"I'm not just learning to code — I'm learning to think like a developer."*
-MGM
+## 🚀 About Me
+- 🔭 **Current Focus:** Full-stack web development with JavaScript, React & Node.js  
+- 🎓 **Training:** CodeYourFuture – building solid foundations and teamwork skills  
+- 💡 **Learning:** Advanced JavaScript patterns, RESTful APIs, TDD & Agile workflows  
+- 🛠️ **Tech Stack:** `JavaScript` | `Node.js` | `React` | `Python` | `SQL` | `HTML` | `CSS` | `Git`  
+- 🧪 **Best Practices:** Test‑Driven Development, Continuous Integration, Unit Testing  
 
+---
+
+## 🔭 What I’m Working On
+- **Portfolio Website:** Showcasing recent projects, responsive design & custom hooks  
+- **API Service:** A Node.js/Express backend with PostgreSQL integration  
+- **Code Challenges:** Leveling up on Codewars & LeetCode to sharpen problem‑solving  
+
+---
+
+## 🌱 I’m Currently Learning
+- Writing clean, maintainable code with SOLID principles  
+- Building full‑featured React apps with Context, Hooks & Router  
+- Designing and documenting RESTful APIs  
+
+---
+
+## 📫 Let’s Connect
+- [LinkedIn](https://www.linkedin.com/in/mikiyas-stp/) – Say hello or chat about JavaScript!  
+- 📧 mikiyas@example.com (replace with your preferred contact email)
+
+> _“I’m not just learning to code — I’m learning to think like a developer.”_
+
+---
+
+**Feel free to explore my repositories and drop me a line if you’d like to collaborate!**
