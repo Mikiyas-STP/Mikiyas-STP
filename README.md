@@ -28,8 +28,8 @@ I’m a passionate trainee software developer on a mission to turn ideas into re
 ---
 
 ## 📫 Let’s Connect
-- [LinkedIn](https://www.linkedin.com/in/mikiyas-stp/) – Say hello or chat about JavaScript!  
-- 📧 mikiyas@example.com (replace with your preferred contact email)
+- [LinkedIn](https://www.linkedin.com/in/mikiyaslink/) – Say hello or chat about JavaScript!  
+- 📧 mikiyas.gebremichael@students.codeyourfuture.io
 
 > _“I’m not just learning to code — I’m learning to think like a developer.”_
 
