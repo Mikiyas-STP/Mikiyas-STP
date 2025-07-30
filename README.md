@@ -5,7 +5,7 @@ I’m a passionate trainee software developer on a mission to turn ideas into re
 ---
 
 ## 🚀 About Me
-- 🔭 **Current Focus:** Full-stack web development with JavaScript, React & Node.js  
+- 🔭 **Current Focus:** Software development practices
 - 🎓 **Training:** CodeYourFuture – building solid foundations and teamwork skills  
 - 💡 **Learning:** Advanced JavaScript patterns, RESTful APIs, TDD & Agile workflows  
 - 🛠️ **Tech Stack:** `JavaScript` | `Node.js` | `React` | `Python` | `SQL` | `HTML` | `CSS` | `Git`  
