@@ -5,18 +5,19 @@ I’m a passionate trainee software developer on a mission to turn ideas into re
 ---
 
 ## 🚀 About Me
-- 🔭 **Current Focus:** Software development practices
-- 🎓 **Training:** CodeYourFuture – building solid foundations and teamwork skills  
-- 💡 **Learning:** Advanced JavaScript patterns, RESTful APIs, TDD & Agile workflows  
+- 🔭 **Current Focus:** Software development practices and the PERN Stack.
+- 🎓 **Training:** CodeYourFuture – building solid foundations, software development practices and teamwork skills  
+- 💡 **Learning:** React, PostgreSQL, Express & Agile workflows  
 - 🛠️ **Tech Stack:** `JavaScript` | `Node.js` | `React` | `Python` | `SQL` | `HTML` | `CSS` | `Git`  
-- 🧪 **Best Practices:** Test‑Driven Development, Continuous Integration, Unit Testing  
+- 🧪 **Best Practices:** Test‑Driven Development, Continuous Integration, Unit Testing , cross-functional agile team
 
 ---
 
 ## 🔭 What I’m Working On
 - **Portfolio Website:** Showcasing recent projects, responsive design & custom hooks  
 - **API Service:** A Node.js/Express backend with PostgreSQL integration  
-- **Code Challenges:** Leveling up on Codewars & LeetCode to sharpen problem‑solving  
+- **Code Challenges:** Leveling up on Codewars & LeetCode to sharpen problem‑solving
+- **Real World Project:** CYF's Development Planner - AKA PlanYourFuture
 
 ---
 
