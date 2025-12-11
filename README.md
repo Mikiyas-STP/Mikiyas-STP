@@ -21,7 +21,7 @@ Here are the technologies and tools I use to bring ideas to life.
 
 My most recent major project is **PlanYourFuture**, a full-stack development planner built for the CodeYourFuture community. I worked as part of a cross-functional agile team to deliver a high-quality MVP from scratch.
 
-*   **Live Site:** [**planyourfuture.coolify.app**](https://your-live-coolify-url.io) <!-- Replace with your actual deployed URL -->
+*   **Live Site:** [**PlanYourFuture**](https://planyourfuture-frontend.hosting.codeyourfuture.io/) <!-- Replace with your actual deployed URL -->
 *   **Repository:** [**Faithy4444/Development-Planner-Group-2**](https://github.com/Faithy4444/Development-Planner-Group-2)
 
 **PlanYourFuture** is a complete PERN stack application, containerized with Docker and deployed on Coolify. It features:
@@ -57,7 +57,7 @@ I am dedicated to a process of continuous learning and improvement. My current f
 I'm always open to connecting with other developers, discussing new technologies, or collaborating on interesting projects.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/[YourLinkedInProfile]/">
+  <a href="https://www.linkedin.com/in/mikiyas-gebremichael-2815b1341/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
   </a>
   <a href="mailto:mikiyas.gebremichael@students.codeyourfuture.io">
