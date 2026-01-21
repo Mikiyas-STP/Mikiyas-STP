@@ -37,7 +37,7 @@ My most recent major project is **PlanYourFuture**, a full-stack development pla
 
 I am dedicated to a process of continuous learning and improvement. My current focus is on:
 
-*   **Deepening my knowledge** of building and deploying scalable, containerized full-stack applications.
+*   **Deepening my knowledge** of building and deploying scalable full-stack applications.
 *   **Mastering professional workflows**, including GitFlow, agile methodologies, and Test-Driven Development (TDD).
 *   **Writing clean, maintainable code** by applying SOLID principles and modern best practices.
 *   **Sharpening my problem-solving skills** through daily challenges on Codewars and LeetCode.
