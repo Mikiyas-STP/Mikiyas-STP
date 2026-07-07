@@ -1,6 +1,6 @@
 # 👋 Hey there, I’m Mikiyas!
 
-I am a software developer currently training with **CodeYourFuture (London)**, with experience building full-stack web applications and a growing focus on **backend engineering, cloud technologies, and scalable software systems**.
+I am a software developer with experience building full-stack web applications and a growing focus on **backend engineering, cloud technologies, and scalable software systems**.
 
 My journey started with full-stack development, where I built real-world applications using modern JavaScript technologies. I am now expanding my backend expertise through **Python, FastAPI, SQLAlchemy, Pydantic, Java, and Spring Boot**, while developing a deeper understanding of software architecture, APIs, databases, and cloud infrastructure.
 
