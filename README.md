@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Miki
+# 👋 Hi, I'm Mikiyas
 
 **Software Engineer · Focused on Backend and AI integration **
 
