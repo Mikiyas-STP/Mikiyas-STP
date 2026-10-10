@@ -66,16 +66,7 @@ A collaborative development-planning application designed to help users organise
 - Improving problem-solving through data structures and algorithms.
 - Learning backend architecture, testing and cloud deployment.
 - Building reliable, maintainable software.
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mikiyas-STP&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikiyas-STP&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
-</p>
-
+  
 ---
 
 ## 🤝 Let's Connect
