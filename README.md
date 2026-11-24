@@ -36,7 +36,7 @@ An AI-powered learning application that helps CodeYourFuture students turn study
 - Contributed to full-stack development, including API integration, authentication and database operations.
 - Collaborated on a platform designed to make extensive computer science study materials easier to revise.
 
-[View repository](https://github.com/Mikiyas-STP/AI-Powered-Study-Deck) | [Live demo](https://pxu9curapm5d32qtvl8avfms.hosting.codeyourfuture.io/login)
+[View repository](https://github.com/Mikiyas-STP/AI-Powered-Study-Deck) | [Live demo](https://9irwzrag3dttbf0qzv3iglus.grads.hosting.cyf.academy/login)
 
 ### 🗓️ PlanYourFuture – Full-Stack Development Planner
 
@@ -48,7 +48,7 @@ A collaborative application that helps users organise development goals, manage 
 - Worked on a mentor feedback workflow that allows users to share development plans and receive comments and suggestions.
 - Collaborated with other developers on database integration and application deployment.
 
-[View repository](https://github.com/Faithy4444/Development-Planner-Group-2) | [Live demo](https://planyourfuture-frontend.hosting.codeyourfuture.io/)
+[View repository](https://github.com/Faithy4444/Development-Planner-Group-2) | [Live demo](https://planyourfuture-frontend.grads.hosting.cyf.academy/login)
 
 ## 🎯 Current Focus
 
