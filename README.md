@@ -1,73 +1,61 @@
-# 👋 Hi, I'm Mikiyas
+# Hi, I'm Mikiyas 👋
 
-**Software Engineer · Focused on Backend and AI integration **
+**Junior Software Developer | Python Backend | Full-Stack Development | AI Integration**
 
-I'm a CodeYourFuture alumnus with hands-on experience building full-stack web applications using the PERN stack. I'm now focusing on **Python backend development, API design, databases and software engineering disciplines**.
+I'm a CodeYourFuture alumnus with practical experience building full-stack applications using JavaScript, React, Node.js and PostgreSQL.
 
-I enjoy solving problems, understanding how systems work, and building clean, maintainable software. I'm continuously improving my skills through practical projects, collaborative development and structured learning.
+I'm now focusing on Python backend development, building APIs with FastAPI, working with databases and exploring practical AI integration.
 
----
+I enjoy understanding how systems work, solving problems and writing clean, maintainable code. I continue to develop my skills through personal projects, collaborative development and structured learning.
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-**Languages**
+**Languages:** Python, JavaScript, SQL
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+**Backend:** FastAPI, Node.js, Express.js, SQLAlchemy, REST APIs
 
-**Backend & Data**
+**Frontend:** React, HTML, CSS
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-555555?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+**Databases:** PostgreSQL
 
-**Frontend & Tools**
+**Tools:** Git, GitHub, Docker, GitHub Actions, Socket.IO
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_Cloud_Foundations-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Coolify](https://img.shields.io/badge/Coolify-6B46C1?style=flat-square&logo=coolify&logoColor=white)
+**AI Integration:** Groq API, Llama 3, GitHub Copilot
 
----
+**Cloud Foundations:** Microsoft Azure, AWS
 
 ## 🚀 Featured Projects
 
-### 📚 AI-Powered Study Deck
+### 📚 AI Study Deck – AI-Powered Learning Platform
 
-An AI-powered learning application focused on creating and managing study materials.
+An AI-powered learning application that helps CodeYourFuture students turn study notes into structured revision flashcards.
 
-- AI integration and full-stack application development.
-- Authentication, API integration and application architecture.
-- Docker and automated development workflows.
+**Technologies:** Python · FastAPI · PostgreSQL · SQLAlchemy · Groq API · Llama 3 · Docker
 
-[**Explore repository →**](https://github.com/Mikiyas-STP/AI-Powered-Study-Deck)
+- Implemented the AI card-generation service using Groq and Llama 3 APIs, processing structured JSON responses to generate revision content.
+- Contributed to full-stack development, including API integration, authentication and database operations.
+- Collaborated on a platform designed to make extensive computer science study materials easier to revise.
 
-### 🗓️ Plan Your Future
+[View repository](https://github.com/Mikiyas-STP/AI-Powered-Study-Deck) | [Live demo](https://pxu9curapm5d32qtvl8avfms.hosting.codeyourfuture.io/login)
 
-A collaborative development-planning application designed to help users organise goals and receive mentor feedback.
+### 🗓️ PlanYourFuture – Full-Stack Development Planner
 
-- Full-stack development using PostgreSQL, Express.js, React and Node.js.
-- Goal management, authentication and plan sharing.
-- Team collaboration, code reviews, testing and deployment.
+A collaborative application that helps users organise development goals, manage tasks and receive feedback from mentors.
 
-[**Explore repository →**](https://github.com/Faithy4444/Development-Planner-Group-2)
+**Technologies:** React · Node.js · Express.js · PostgreSQL · Docker
 
----
+- Contributed to frontend and backend development, implementing REST API functionality, authentication and CRUD operations.
+- Worked on a mentor feedback workflow that allows users to share development plans and receive comments and suggestions.
+- Collaborated with other developers on database integration and application deployment.
 
-## 🎯 What I'm Working On
+[View repository](https://github.com/Faithy4444/Development-Planner-Group-2) | [Live demo](https://planyourfuture-frontend.hosting.codeyourfuture.io/)
 
-- Building backend APIs with Python and FastAPI.
-- Strengthening SQL, database design and ORM fundamentals.
-- Improving problem-solving through data structures and algorithms.
-- Learning backend architecture, testing and cloud deployment.
-- Building reliable, maintainable software.
-  
----
+## 🎯 Current Focus
+
+- Developing backend applications with Python and FastAPI.
+- Strengthening database design, SQL and ORM fundamentals.
+- Improving software design, testing and debugging skills.
+- Exploring applied AI and integrating AI capabilities into applications.
 
 ## 🤝 Let's Connect
 
